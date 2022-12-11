@@ -17,7 +17,7 @@ The config.plist file hasn't got SMBIOS, to add it download Propertree [to edit 
 
 - Location
 
-- iCloud [fix en0 ()]
+- iCloud [fix en0 (https://youtu.be/wKNHH4dt7I8)]
 
 - GPU acceleraion
 
