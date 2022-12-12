@@ -21,7 +21,7 @@ The config.plist file hasn't got SMBIOS, to add it, download Propertree [to edit
 
 - GPU acceleraion
 
-- Bluetooth
+- Bluetooth (in the EFI folder there isn't any bluetooth kext, you have to add it)
 
 # System specification
 
