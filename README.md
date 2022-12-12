@@ -1,4 +1,4 @@
-# Yoga530 Opencore
+# Yoga 530 14IKB Opencore
 Full EFI to run macOS Catalina & up on your Lenovo Yoga 530 14IKB
 
 !!WARNING!!
